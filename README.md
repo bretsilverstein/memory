@@ -1,8 +1,8 @@
 # memory
 
-README.md
-Bret Silverstein
-Description of memory.py
+## README.md
+## Bret Silverstein
+## Description of memory.py
 
 memory.py is a program for playing the game memory (concentration). It is a
 single player version of the game where the player must match cards in a
@@ -17,9 +17,9 @@ the Pandas library. The board was displayed and maintained using the
 DataFrame object from Pandas. 
 
 This program uses the following libraries:
-pandas
-numpy
-sys
-random
-time
+pandas,
+numpy,
+sys,
+random,
+time,
 re
