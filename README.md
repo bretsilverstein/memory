@@ -1,8 +1,10 @@
 # memory
 
-## README.md
-## Bret Silverstein
-## Description of memory.py
+README.md
+
+Bret Silverstein
+
+Description of memory.py
 
 memory.py is a program for playing the game memory (concentration). It is a
 single player version of the game where the player must match cards in a
